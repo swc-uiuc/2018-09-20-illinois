@@ -13,7 +13,7 @@ enddate: 2018-09-21        # machine-readable end date for the workshop in YYYY-
 instructor: ["Jenny Drnevich", "Lindsay Clark", "Madicken Munk", "Elizabeth Wickes"] # boxed, comma-separated list of instructors' names as strings
 helper: ["Neal Davis", "Dena Strong"]     # boxed, comma-separated list of helpers' names
 email: ["training@cse.illinois.edu"]    # boxed, comma-separated list of contact email addresses for the host
-collaborative_notes: "http://pad.software-carpentry.org/2018-09-06-illinois"            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes: "http://pad.software-carpentry.org/2018-09-20-illinois"            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: "48811116363"          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
