@@ -467,7 +467,7 @@ eventbrite: "48811116363"          # optional: alphanumeric key for Eventbrite r
       <p>
         nano is a basic editor and the default that instructors use in the workshop.
         To install it,
-        download the <a href="{{site.swc_installer}}">
+        download the <a href="https://github.com/swcarpentry/windows-installer/releases/tag/v0.3">
           {% if page.carpentry == "swc" %}
           Software Carpentry
           {% elsif page.carpentry == "dc" %}
