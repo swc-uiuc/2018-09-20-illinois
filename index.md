@@ -583,7 +583,7 @@ eventbrite: "48811116363"          # optional: alphanumeric key for Eventbrite r
     <div class="col-md-4">
       <h4 id="sql-windows">Windows</h4>
       <p>
-        The <a href="{{site.swc_installer}}">
+        The <a href="https://github.com/swcarpentry/windows-installer/releases/tag/v0.3">
           {% if page.carpentry == "swc" %}
           Software Carpentry
           {% elsif page.carpentry == "dc" %}
